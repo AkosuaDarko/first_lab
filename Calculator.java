@@ -8,7 +8,7 @@ public class Calculator{
     double a, result;
     double b;
     String operator="";
-    
+    int a;
     Scanner keyboard = new Scanner (System.in);
     
     System.out.println("Enter the first number");
